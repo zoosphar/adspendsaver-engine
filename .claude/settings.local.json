@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(bun install:*)",
+      "Bash(bun info @playwright/mcp 2>&1 || npm view @playwright/mcp versions --json 2>&1)",
+      "Bash(bunx playwright:*)",
+      "Bash(head:*)",
+      "Bash(find:*)",
+      "Bash(bunx tsc:*)",
+      "Bash(npx tsc:*)",
+      "Bash(grep playwright:*)",
+      "Bash(ls node_modules/playwright/types/ 2>/dev/null || ls node_modules/playwright/*.d.ts 2>/dev/null)",
+      "Bash(bun add:*)",
+      "Bash(bun run:*)",
+      "WebFetch(domain:developer.chrome.com)",
+      "WebFetch(domain:www.npmjs.com)"
+    ]
+  }
+}

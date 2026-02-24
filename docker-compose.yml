@@ -1,0 +1,22 @@
+services:
+  ass-bot:
+    build: .
+    ports:
+      - "${PORT:-3000}:3000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - FIREBASE_SERVICE_ACCOUNT_JSON=${FIREBASE_SERVICE_ACCOUNT_JSON}
+      - FIREBASE_STORAGE_BUCKET=${FIREBASE_STORAGE_BUCKET}
+      - PORT=3000
+      - EXPLORATION_MODEL=${EXPLORATION_MODEL:-claude-sonnet-4-20250514}
+      - SUMMARY_MODEL=${SUMMARY_MODEL:-claude-sonnet-4-20250514}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash}
+      - MAX_SANITY_RETRIES=${MAX_SANITY_RETRIES:-3}
+      - STAGE_TIMEOUT_MS=${STAGE_TIMEOUT_MS:-300000}
+      - PIPELINE_TIMEOUT_MS=${PIPELINE_TIMEOUT_MS:-900000}
+      - HUMAN_DELAY_MIN_MS=${HUMAN_DELAY_MIN_MS:-500}
+      - HUMAN_DELAY_MAX_MS=${HUMAN_DELAY_MAX_MS:-2000}
+    ipc: host
+    # Chromium needs shared memory
+    shm_size: "2gb"

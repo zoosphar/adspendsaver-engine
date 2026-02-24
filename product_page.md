@@ -1,0 +1,1036 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - complementary [ref=e3]:
+    - generic [ref=e7]:
+      - group / [ref=e8]:
+        - paragraph [ref=e9]: ⚡ Free Returns & Exchanges ⚡
+      - group / [ref=e10]:
+        - paragraph [ref=e11]:
+          - text: "⚡ 10% of on your first order Or 1st Mens Wear Order⚡| Use code:"
+          - generic [ref=e12]: FIRSTBLISS
+      - group / [ref=e13]:
+        - paragraph [ref=e14]:
+          - text: "⚡ Extra Rs.150 off on purchase of 2 faves ⚡| Use code:"
+          - generic [ref=e15]: BLISS150
+      - group / [ref=e16]:
+        - paragraph [ref=e17]: ⚡ Free Returns & Exchanges ⚡
+      - group / [ref=e18]:
+        - paragraph [ref=e19]:
+          - text: "⚡ 10% of on your first order Or 1st Mens Wear Order⚡| Use code:"
+          - generic [ref=e20]: FIRSTBLISS
+  - banner [ref=e21]:
+    - generic [ref=e23]:
+      - img [ref=e27]
+      - generic [ref=e29]:
+        - button "Open navigation menu" [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: Open navigation menu
+        - link "BlissClub" [ref=e37] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e38]: BlissClub
+        - generic [ref=e40]:
+          - img [ref=e43] [cursor=pointer]
+          - link [ref=e47] [cursor=pointer]:
+            - /url: https://onelink.to/j4dwpx
+            - img [ref=e48]:
+              - generic [ref=e54]: APP
+          - link "0" [ref=e55] [cursor=pointer]:
+            - /url: /pages/wishlist
+            - img [ref=e56]
+            - paragraph [ref=e60]: "0"
+          - link "Open cart" [ref=e61] [cursor=pointer]:
+            - /url: /cart
+            - generic [ref=e62]: Open cart
+            - img [ref=e63]
+      - generic [ref=e68]:
+        - link "Women" [ref=e69] [cursor=pointer]:
+          - /url: /
+        - link "Men New" [ref=e70] [cursor=pointer]:
+          - /url: /pages/mens-wear
+          - text: Men
+          - generic [ref=e71]: New
+  - main [ref=e72]:
+    - generic [ref=e77]:
+      - group / [ref=e78]:
+        - generic [ref=e79]:
+          - link "Ultimate Leggings - Lite" [ref=e81] [cursor=pointer]:
+            - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket
+            - img "Ultimate Leggings - Lite" [ref=e82]
+          - link "Ultimate Leggings - Lite" [ref=e84] [cursor=pointer]:
+            - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket
+            - paragraph [ref=e85]: Ultimate Leggings - Lite
+      - group / [ref=e86]:
+        - generic [ref=e87]:
+          - link "Ultimate Printed Leggings" [ref=e89] [cursor=pointer]:
+            - /url: /products/ultimate-printed-leggings
+            - img "Ultimate Printed Leggings" [ref=e90]
+          - link "Ultimate Printed Leggings" [ref=e92] [cursor=pointer]:
+            - /url: /products/ultimate-printed-leggings
+            - paragraph [ref=e93]: Ultimate Printed Leggings
+      - group / [ref=e94]:
+        - generic [ref=e95]:
+          - link "Ultimate Flare Pants" [ref=e97] [cursor=pointer]:
+            - /url: /products/the-ultimate-flare-pants
+            - img "Ultimate Flare Pants" [ref=e98]
+          - link "Ultimate Flare Pants" [ref=e100] [cursor=pointer]:
+            - /url: /products/the-ultimate-flare-pants
+            - paragraph [ref=e101]: Ultimate Flare Pants
+      - group / [ref=e102]:
+        - generic [ref=e103]:
+          - link "Ultimate Leggings" [ref=e105] [cursor=pointer]:
+            - /url: /products/high-waisted-ankle-length-leggings-with-4-pockets
+            - img "Ultimate Leggings" [ref=e106]
+          - link "Ultimate Leggings" [ref=e108] [cursor=pointer]:
+            - /url: /products/high-waisted-ankle-length-leggings-with-4-pockets
+            - paragraph [ref=e109]: Ultimate Leggings
+      - group / [ref=e110]:
+        - generic [ref=e111]:
+          - link "AirMelt Flare Pants - Lite" [ref=e113] [cursor=pointer]:
+            - /url: /products/airmelt-flare-pants-lite
+            - img "AirMelt Flare Pants - Lite" [ref=e114]
+          - link "AirMelt Flare Pants - Lite" [ref=e116] [cursor=pointer]:
+            - /url: /products/airmelt-flare-pants-lite
+            - paragraph [ref=e117]: AirMelt Flare Pants - Lite
+      - group / [ref=e118]:
+        - generic [ref=e119]:
+          - link "Ultimate Korean Pants" [ref=e121] [cursor=pointer]:
+            - /url: /products/high-waisted-wide-legged-pants-with-adjustable-drawstring-and-2-pockets
+            - img "Ultimate Korean Pants" [ref=e122]
+          - link "Ultimate Korean Pants" [ref=e124] [cursor=pointer]:
+            - /url: /products/high-waisted-wide-legged-pants-with-adjustable-drawstring-and-2-pockets
+            - paragraph [ref=e125]: Ultimate Korean Pants
+      - group / [ref=e126]:
+        - generic [ref=e127]:
+          - link "AirMelt™ Joggers" [ref=e129] [cursor=pointer]:
+            - /url: /products/airmelt-joggers
+            - img "AirMelt™ Joggers" [ref=e130]
+          - link "AirMelt™ Joggers" [ref=e132] [cursor=pointer]:
+            - /url: /products/airmelt-joggers
+            - paragraph [ref=e133]: AirMelt™ Joggers
+      - group / [ref=e134]:
+        - generic [ref=e135]:
+          - link "Ultimate Straight Pants - Lite" [ref=e137] [cursor=pointer]:
+            - /url: /products/ultimate-straight-pants-lite
+            - img "Ultimate Straight Pants - Lite" [ref=e138]
+          - link "Ultimate Straight Pants - Lite" [ref=e140] [cursor=pointer]:
+            - /url: /products/ultimate-straight-pants-lite
+            - paragraph [ref=e141]: Ultimate Straight Pants - Lite
+      - group / [ref=e142]:
+        - generic [ref=e143]:
+          - link "AirMelt™ Shorts" [ref=e145] [cursor=pointer]:
+            - /url: /products/airmelt-short
+            - img "AirMelt™ Shorts" [ref=e146]
+          - link "AirMelt™ Shorts" [ref=e148] [cursor=pointer]:
+            - /url: /products/airmelt-short
+            - paragraph [ref=e149]: AirMelt™ Shorts
+      - group / [ref=e150]:
+        - generic [ref=e151]:
+          - link "Ultimate Straight Pants" [ref=e153] [cursor=pointer]:
+            - /url: /products/straight-pants-with-2-zipper-pockets
+            - img "Ultimate Straight Pants" [ref=e154]
+          - link "Ultimate Straight Pants" [ref=e156] [cursor=pointer]:
+            - /url: /products/straight-pants-with-2-zipper-pockets
+            - paragraph [ref=e157]: Ultimate Straight Pants
+      - group / [ref=e158]:
+        - generic [ref=e159]:
+          - link "Ultimate Cigarette Pants" [ref=e161] [cursor=pointer]:
+            - /url: /products/ultimate-cigarette-pants
+            - img "Ultimate Cigarette Pants" [ref=e162]
+          - link "Ultimate Cigarette Pants" [ref=e164] [cursor=pointer]:
+            - /url: /products/ultimate-cigarette-pants
+            - paragraph [ref=e165]: Ultimate Cigarette Pants
+      - group / [ref=e166]:
+        - generic [ref=e167]:
+          - link "The Move All Day Cotton Wide Pants" [ref=e169] [cursor=pointer]:
+            - /url: /products/move-all-day-cotton-wide-pants-copy
+            - img "The Move All Day Cotton Wide Pants" [ref=e170]
+          - link "The Move All Day Cotton Wide Pants" [ref=e172] [cursor=pointer]:
+            - /url: /products/move-all-day-cotton-wide-pants-copy
+            - paragraph [ref=e173]: The Move All Day Cotton Wide Pants
+      - group / [ref=e174]:
+        - generic [ref=e175]:
+          - link "AM:PM Cotton Flare Pants" [ref=e177] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants
+            - img "AM:PM Cotton Flare Pants" [ref=e178]
+          - link "AM:PM Cotton Flare Pants" [ref=e180] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants
+            - paragraph [ref=e181]: AM:PM Cotton Flare Pants
+      - group / [ref=e182]:
+        - generic [ref=e183]:
+          - link "Ultimate Palazzo Pants" [ref=e185] [cursor=pointer]:
+            - /url: /products/ultimate-palazzo-pants
+            - img "Ultimate Palazzo Pants" [ref=e186]
+          - link "Ultimate Palazzo Pants" [ref=e188] [cursor=pointer]:
+            - /url: /products/ultimate-palazzo-pants
+            - paragraph [ref=e189]: Ultimate Palazzo Pants
+      - group / [ref=e190]:
+        - generic [ref=e191]:
+          - link "RibSupreme™ Straight Pants" [ref=e193] [cursor=pointer]:
+            - /url: /products/ribsupreme-wide-leg-pants
+            - img "RibSupreme™ Straight Pants" [ref=e194]
+          - link "RibSupreme™ Straight Pants" [ref=e196] [cursor=pointer]:
+            - /url: /products/ribsupreme-wide-leg-pants
+            - paragraph [ref=e197]: RibSupreme™ Straight Pants
+      - group / [ref=e198]:
+        - generic [ref=e199]:
+          - link "BareButter™ Straight Pants" [ref=e201] [cursor=pointer]:
+            - /url: /products/barebutter-straight-pants
+            - img "BareButter™ Straight Pants" [ref=e202]
+          - link "BareButter™ Straight Pants" [ref=e204] [cursor=pointer]:
+            - /url: /products/barebutter-straight-pants
+            - paragraph [ref=e205]: BareButter™ Straight Pants
+      - group / [ref=e206]:
+        - generic [ref=e207]:
+          - link "Ultimate All Day Joggers" [ref=e209] [cursor=pointer]:
+            - /url: /products/mid-waist-tapered-pants-with-adjustable-drawstring-and-2-side-pockets
+            - img "Ultimate All Day Joggers" [ref=e210]
+          - link "Ultimate All Day Joggers" [ref=e212] [cursor=pointer]:
+            - /url: /products/mid-waist-tapered-pants-with-adjustable-drawstring-and-2-side-pockets
+            - paragraph [ref=e213]: Ultimate All Day Joggers
+      - group / [ref=e214]:
+        - generic [ref=e215]:
+          - link "AM:PM Air Flare Trousers" [ref=e217] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants-lite
+            - img "AM:PM Air Flare Trousers" [ref=e218]
+          - link "AM:PM Air Flare Trousers" [ref=e220] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants-lite
+            - paragraph [ref=e221]: AM:PM Air Flare Trousers
+      - group / [ref=e222]:
+        - generic [ref=e223]:
+          - link "Werk-It Flare Pants" [ref=e225] [cursor=pointer]:
+            - /url: /products/high-rise-cotton-flare-pants-with-4-pockets
+            - img "Werk-It Flare Pants" [ref=e226]
+          - link "Werk-It Flare Pants" [ref=e228] [cursor=pointer]:
+            - /url: /products/high-rise-cotton-flare-pants-with-4-pockets
+            - paragraph [ref=e229]: Werk-It Flare Pants
+      - group / [ref=e230]:
+        - generic [ref=e231]:
+          - link "Werk-It Straight Pants" [ref=e233] [cursor=pointer]:
+            - /url: /products/werk-it-straight-pants
+            - img "Werk-It Straight Pants" [ref=e234]
+          - link "Werk-It Straight Pants" [ref=e236] [cursor=pointer]:
+            - /url: /products/werk-it-straight-pants
+            - paragraph [ref=e237]: Werk-It Straight Pants
+      - group / [ref=e238]:
+        - generic [ref=e239]:
+          - link "High Waisted Capris with Pockets for Women & Girls" [ref=e241] [cursor=pointer]:
+            - /url: /products/high-waisted-sports-capris-with-2-pockets
+            - img "High Waisted Capris with Pockets for Women & Girls" [ref=e242]
+          - link "Ultimate Capris" [ref=e244] [cursor=pointer]:
+            - /url: /products/high-waisted-sports-capris-with-2-pockets
+            - paragraph [ref=e245]: Ultimate Capris
+      - group / [ref=e246]:
+        - generic [ref=e247]:
+          - link "Ultimate Slit Flare Pants - Lite" [ref=e249] [cursor=pointer]:
+            - /url: /products/ultimate-slit-flare-pants-lite
+            - img "Ultimate Slit Flare Pants - Lite" [ref=e250]
+          - link "Ultimate Slit Flare Pants - Lite" [ref=e252] [cursor=pointer]:
+            - /url: /products/ultimate-slit-flare-pants-lite
+            - paragraph [ref=e253]: Ultimate Slit Flare Pants - Lite
+      - group / [ref=e254]:
+        - generic [ref=e255]:
+          - link "AM:PM Cotton Wide Legged Pants" [ref=e257] [cursor=pointer]:
+            - /url: /products/all-day-cotton-wide-legged-pants
+            - img "AM:PM Cotton Wide Legged Pants" [ref=e258]
+          - link "AM:PM Cotton Wide Legged Pants" [ref=e260] [cursor=pointer]:
+            - /url: /products/all-day-cotton-wide-legged-pants
+            - paragraph [ref=e261]: AM:PM Cotton Wide Legged Pants
+      - group / [ref=e262]:
+        - generic [ref=e263]:
+          - link "Work-To-Wine Twill Wide Leg Flare Pants" [ref=e265] [cursor=pointer]:
+            - /url: /products/work-to-wine-twill-wide-leg-flare-pants
+            - img "Work-To-Wine Twill Wide Leg Flare Pants" [ref=e266]
+          - link "Work-To-Wine Twill Wide Leg Flare Pants" [ref=e268] [cursor=pointer]:
+            - /url: /products/work-to-wine-twill-wide-leg-flare-pants
+            - paragraph [ref=e269]: Work-To-Wine Twill Wide Leg Flare Pants
+      - group / [ref=e270]:
+        - generic [ref=e271]:
+          - link "Work-To-Wine Twill Straight Pants" [ref=e273] [cursor=pointer]:
+            - /url: /products/work-to-wine-twill-straight-pants
+            - img "Work-To-Wine Twill Straight Pants" [ref=e274]
+          - link "Work-To-Wine Twill Straight Pants" [ref=e276] [cursor=pointer]:
+            - /url: /products/work-to-wine-twill-straight-pants
+            - paragraph [ref=e277]: Work-To-Wine Twill Straight Pants
+      - group / [ref=e278]:
+        - generic [ref=e279]:
+          - link "Ultimate Sculpt Straight Pants" [ref=e281] [cursor=pointer]:
+            - /url: /products/ultimate-sculpt-straight-pants
+            - img "Ultimate Sculpt Straight Pants" [ref=e282]
+          - link "Ultimate Sculpt Straight Pants" [ref=e284] [cursor=pointer]:
+            - /url: /products/ultimate-sculpt-straight-pants
+            - paragraph [ref=e285]: Ultimate Sculpt Straight Pants
+      - group / [ref=e286]:
+        - generic [ref=e287]:
+          - link "Move All Day Cotton Wide Pants" [ref=e289] [cursor=pointer]:
+            - /url: /products/mid-rise-cotton-pants-with-2-pockets
+            - img "Move All Day Cotton Wide Pants" [ref=e290]
+          - link "Move All Day Cotton Wide Pants" [ref=e292] [cursor=pointer]:
+            - /url: /products/mid-rise-cotton-pants-with-2-pockets
+            - paragraph [ref=e293]: Move All Day Cotton Wide Pants
+      - group / [ref=e294]:
+        - generic [ref=e295]:
+          - link "Groove-in Cotton Shorts" [ref=e297] [cursor=pointer]:
+            - /url: /products/groove-in-cotton-shorts
+            - img "Groove-in Cotton Shorts" [ref=e298]
+          - link "Groove-in Cotton Shorts" [ref=e300] [cursor=pointer]:
+            - /url: /products/groove-in-cotton-shorts
+            - paragraph [ref=e301]: Groove-in Cotton Shorts
+      - group / [ref=e302]:
+        - generic [ref=e303]:
+          - link "High Waisted Ankle Length Cotton Leggings with Pockets for Women" [ref=e305] [cursor=pointer]:
+            - /url: /products/high-waisted-cotton-ankle-length-leggings-with-2-pockets
+            - img "High Waisted Ankle Length Cotton Leggings with Pockets for Women" [ref=e306]
+          - link "Groove-In Cotton Leggings" [ref=e308] [cursor=pointer]:
+            - /url: /products/high-waisted-cotton-ankle-length-leggings-with-2-pockets
+            - paragraph [ref=e309]: Groove-In Cotton Leggings
+      - group / [ref=e310]:
+        - generic [ref=e311]:
+          - link "Groove-in Cotton Joggers" [ref=e313] [cursor=pointer]:
+            - /url: /products/groove-in-cotton-joggers
+            - img "Groove-in Cotton Joggers" [ref=e314]
+          - link "Groove-in Cotton Joggers" [ref=e316] [cursor=pointer]:
+            - /url: /products/groove-in-cotton-joggers
+            - paragraph [ref=e317]: Groove-in Cotton Joggers
+      - group / [ref=e318]:
+        - generic [ref=e319]:
+          - link "Ultimate Culottes" [ref=e321] [cursor=pointer]:
+            - /url: /products/ultimate-culottes
+            - img "Ultimate Culottes" [ref=e322]
+          - link "Ultimate Culottes" [ref=e324] [cursor=pointer]:
+            - /url: /products/ultimate-culottes
+            - paragraph [ref=e325]: Ultimate Culottes
+      - group / [ref=e326]:
+        - generic [ref=e327]:
+          - link "AM:PM Cotton Straight Pants" [ref=e329] [cursor=pointer]:
+            - /url: /products/all-day-cotton-straight-pants
+            - img "AM:PM Cotton Straight Pants" [ref=e330]
+          - link "AM:PM Cotton Straight Pants" [ref=e332] [cursor=pointer]:
+            - /url: /products/all-day-cotton-straight-pants
+            - paragraph [ref=e333]: AM:PM Cotton Straight Pants
+      - group / [ref=e334]:
+        - generic [ref=e335]:
+          - link "Ultimate Shorties - Lite" [ref=e337] [cursor=pointer]:
+            - /url: /products/ultimate-shorties-lite
+            - img "Ultimate Shorties - Lite" [ref=e338]
+          - link "Ultimate Shorties - Lite" [ref=e340] [cursor=pointer]:
+            - /url: /products/ultimate-shorties-lite
+            - paragraph [ref=e341]: Ultimate Shorties - Lite
+      - group / [ref=e342]:
+        - generic [ref=e343]:
+          - link "Ultimate Sculpt Wide-Legged Pants" [ref=e345] [cursor=pointer]:
+            - /url: /products/ultimate-sculpt-wide-legged-pants
+            - img "Ultimate Sculpt Wide-Legged Pants" [ref=e346]
+          - link "Ultimate Sculpt Wide-Legged Pants" [ref=e348] [cursor=pointer]:
+            - /url: /products/ultimate-sculpt-wide-legged-pants
+            - paragraph [ref=e349]: Ultimate Sculpt Wide-Legged Pants
+      - group / [ref=e350]:
+        - generic [ref=e351]:
+          - link "AM:PM Air Wide Trousers - Cotton Tall" [ref=e353] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-wide-legged-pants-lite-tall
+            - img "AM:PM Air Wide Trousers - Cotton Tall" [ref=e354]
+          - link "AM:PM Air Wide Trousers - Cotton Tall" [ref=e356] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-wide-legged-pants-lite-tall
+            - paragraph [ref=e357]: AM:PM Air Wide Trousers - Cotton Tall
+      - group / [ref=e358]:
+        - generic [ref=e359]:
+          - link "Ultimate Straight Pants - Lite Tall" [ref=e361] [cursor=pointer]:
+            - /url: /products/ultimate-straight-pants-lite-tall
+            - img "Ultimate Straight Pants - Lite Tall" [ref=e362]
+          - link "Ultimate Straight Pants - Lite Tall" [ref=e364] [cursor=pointer]:
+            - /url: /products/ultimate-straight-pants-lite-tall
+            - paragraph [ref=e365]: Ultimate Straight Pants - Lite Tall
+      - group / [ref=e366]:
+        - generic [ref=e367]:
+          - link "Ultimate Cycling Shorts - Lite" [ref=e369] [cursor=pointer]:
+            - /url: /products/ultimate-cycling-shorts-lite
+            - img "Ultimate Cycling Shorts - Lite" [ref=e370]
+          - link "Ultimate Cycling Shorts - Lite" [ref=e372] [cursor=pointer]:
+            - /url: /products/ultimate-cycling-shorts-lite
+            - paragraph [ref=e373]: Ultimate Cycling Shorts - Lite
+      - group / [ref=e374]:
+        - generic [ref=e375]:
+          - link "AM:PM Air Flare Trousers - Cotton Tall" [ref=e377] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants-lite-tall
+            - img "AM:PM Air Flare Trousers - Cotton Tall" [ref=e378]
+          - link "AM:PM Air Flare Trousers - Cotton Tall" [ref=e380] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants-lite-tall
+            - paragraph [ref=e381]: AM:PM Air Flare Trousers - Cotton Tall
+      - group / [ref=e382]:
+        - generic [ref=e383]:
+          - link "AM:PM Cotton Flare Pants Tall" [ref=e385] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants-tall
+            - img "AM:PM Cotton Flare Pants Tall" [ref=e386]
+          - link "AM:PM Cotton Flare Pants Tall" [ref=e388] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-flare-pants-tall
+            - paragraph [ref=e389]: AM:PM Cotton Flare Pants Tall
+      - group / [ref=e390]:
+        - generic [ref=e391]:
+          - link "MamaMove Maternity Leggings" [ref=e393] [cursor=pointer]:
+            - /url: /products/high-waisted-maternity-leggings-with-2-pockets
+            - img "MamaMove Maternity Leggings" [ref=e394]
+          - link "MamaMove Maternity Leggings" [ref=e396] [cursor=pointer]:
+            - /url: /products/high-waisted-maternity-leggings-with-2-pockets
+            - paragraph [ref=e397]: MamaMove Maternity Leggings
+      - group / [ref=e398]:
+        - generic [ref=e399]:
+          - link "Ultimate Leggings - Lite Tall" [ref=e401] [cursor=pointer]:
+            - /url: /products/ultimate-leggings-lite-tall
+            - img "Ultimate Leggings - Lite Tall" [ref=e402]
+          - link "Ultimate Leggings - Lite Tall" [ref=e404] [cursor=pointer]:
+            - /url: /products/ultimate-leggings-lite-tall
+            - paragraph [ref=e405]: Ultimate Leggings - Lite Tall
+      - group / [ref=e406]:
+        - generic [ref=e407]:
+          - link "Ultimate Flare Pants - Lite Tall" [ref=e409] [cursor=pointer]:
+            - /url: /products/ultimate-flare-pants-lite-tall
+            - img "Ultimate Flare Pants - Lite Tall" [ref=e410]
+          - link "Ultimate Flare Pants - Lite Tall" [ref=e412] [cursor=pointer]:
+            - /url: /products/ultimate-flare-pants-lite-tall
+            - paragraph [ref=e413]: Ultimate Flare Pants - Lite Tall
+      - group / [ref=e414]:
+        - generic [ref=e415]:
+          - link "Ultimate Flare Pants Tall" [ref=e417] [cursor=pointer]:
+            - /url: /products/ultimate-flare-pants-tall
+            - img "Ultimate Flare Pants Tall" [ref=e418]
+          - link "Ultimate Flare Pants Tall" [ref=e420] [cursor=pointer]:
+            - /url: /products/ultimate-flare-pants-tall
+            - paragraph [ref=e421]: Ultimate Flare Pants Tall
+      - group / [ref=e422]:
+        - generic [ref=e423]:
+          - link "Ultimate Leggings Tall" [ref=e425] [cursor=pointer]:
+            - /url: /products/ultimate-leggings-tall
+            - img "Ultimate Leggings Tall" [ref=e426]
+          - link "Ultimate Leggings Tall" [ref=e428] [cursor=pointer]:
+            - /url: /products/ultimate-leggings-tall
+            - paragraph [ref=e429]: Ultimate Leggings Tall
+      - group / [ref=e430]:
+        - generic [ref=e431]:
+          - link "Ultimate Sculpt Trouser Leggings" [ref=e433] [cursor=pointer]:
+            - /url: /products/ultimate-sculpt-trouser-leggings
+            - img "Ultimate Sculpt Trouser Leggings" [ref=e434]
+          - link "Ultimate Sculpt Trouser Leggings" [ref=e436] [cursor=pointer]:
+            - /url: /products/ultimate-sculpt-trouser-leggings
+            - paragraph [ref=e437]: Ultimate Sculpt Trouser Leggings
+      - group / [ref=e438]:
+        - generic [ref=e439]:
+          - link "High Waisted Straight Pants with Pockets for Women" [ref=e441] [cursor=pointer]:
+            - /url: /products/ultimate-straight-pants-tall
+            - img "High Waisted Straight Pants with Pockets for Women" [ref=e442]
+          - link "Ultimate Straight Pants Tall" [ref=e444] [cursor=pointer]:
+            - /url: /products/ultimate-straight-pants-tall
+            - paragraph [ref=e445]: Ultimate Straight Pants Tall
+      - group / [ref=e446]:
+        - generic [ref=e447]:
+          - link "Werk-It Wide Leg Pants" [ref=e449] [cursor=pointer]:
+            - /url: /products/werk-it-wide-leg-pants
+            - img "Werk-It Wide Leg Pants" [ref=e450]
+          - link "Werk-It Wide Leg Pants" [ref=e452] [cursor=pointer]:
+            - /url: /products/werk-it-wide-leg-pants
+            - paragraph [ref=e453]: Werk-It Wide Leg Pants
+      - group / [ref=e454]:
+        - generic [ref=e455]:
+          - link "AM:PM Cotton Straight Pants Tall" [ref=e457] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-straight-pants-copy
+            - img "AM:PM Cotton Straight Pants Tall" [ref=e458]
+          - link "AM:PM Cotton Straight Pants Tall" [ref=e460] [cursor=pointer]:
+            - /url: /products/am-pm-cotton-straight-pants-copy
+            - paragraph [ref=e461]: AM:PM Cotton Straight Pants Tall
+      - group / [ref=e462]:
+        - generic [ref=e463]:
+          - link "Ultimate Korean Pants Tall" [ref=e465] [cursor=pointer]:
+            - /url: /products/ultimate-wide-legged-pants-tall
+            - img "Ultimate Korean Pants Tall" [ref=e466]
+          - link "Ultimate Korean Pants Tall" [ref=e468] [cursor=pointer]:
+            - /url: /products/ultimate-wide-legged-pants-tall
+            - paragraph [ref=e469]: Ultimate Korean Pants Tall
+    - generic [ref=e472]:
+      - generic [ref=e480]:
+        - generic [ref=e482]:
+          - img [ref=e484] [cursor=pointer]
+          - img [ref=e486] [cursor=pointer]
+          - img [ref=e488] [cursor=pointer]
+          - img [ref=e490] [cursor=pointer]
+          - img [ref=e492] [cursor=pointer]
+          - img [ref=e494] [cursor=pointer]
+          - iframe [ref=e497]:
+            - generic [ref=f13e2]:
+              - generic:
+                - button "Play":
+                  - generic: Play
+                - generic:
+                  - generic:
+                    - slider "Seek": "0"
+                    - progressbar: "% buffered"
+                    - generic: 00:00
+                - button "Mute":
+                  - generic: Mute
+                - generic:
+                  - slider "Volume": "1"
+                - button "Enter fullscreen":
+                  - generic: Enter fullscreen
+              - button "Play" [ref=f13e6] [cursor=pointer]:
+                - generic [ref=f13e7]: Play
+          - iframe [ref=e500]:
+            - generic [ref=f14e2]:
+              - generic:
+                - button "Play":
+                  - generic: Play
+                - generic:
+                  - generic:
+                    - slider "Seek": "0"
+                    - progressbar: "% buffered"
+                    - generic: 00:00
+                - button "Mute":
+                  - generic: Mute
+                - generic:
+                  - slider "Volume": "1"
+                - button "Enter fullscreen":
+                  - generic: Enter fullscreen
+              - button "Play" [ref=f14e6] [cursor=pointer]:
+                - generic [ref=f14e7]: Play
+          - img [ref=e502] [cursor=pointer]
+          - img [ref=e504] [cursor=pointer]
+        - button "Next slide" [ref=e505] [cursor=pointer]:
+          - img [ref=e506]
+        - button "Previous slide" [ref=e508] [cursor=pointer]:
+          - img [ref=e509]
+      - generic [ref=e523]:
+        - heading "Ultimate Flare Pants - Lite" [level=1] [ref=e524]
+        - heading "Designed for work & workout" [level=4] [ref=e525]
+        - generic [ref=e526]:
+          - generic [ref=e527]:
+            - region [ref=e528]:
+              - generic [ref=e529]:
+                - generic [ref=e530]: Regular price
+                - text: Rs. 1,999
+              - generic [ref=e531]:
+                - generic [ref=e532]: Sale price
+                - text: Rs. 999
+            - link "4.6 4.6 out of 5.0 stars 198 reviews" [ref=e533] [cursor=pointer]:
+              - /url: "#judgeme_product_reviews"
+              - generic [ref=e534]: "4.6"
+              - img "4.6 out of 5.0 stars" [ref=e535]:
+                - img [ref=e536]
+              - generic [ref=e538]: 198 reviews
+          - paragraph [ref=e539]: Inclusive of all taxes
+        - group [ref=e541]:
+          - generic [ref=e543]:
+            - generic [ref=e544]: "Pattern:"
+            - generic [ref=e545]: Regular - Upto 5'4
+          - generic [ref=e546]:
+            - link "Regular - Upto 5'4" [ref=e547] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - generic [ref=e548]: Regular - Upto 5'4
+            - link "Tall - Above 5'5" [ref=e549] [cursor=pointer]:
+              - /url: /products/ultimate-flare-pants-lite-tall
+              - generic [ref=e550]: Tall - Above 5'5
+        - generic [ref=e552]:
+          - group [ref=e553]:
+            - generic [ref=e555]:
+              - generic [ref=e556]:
+                - generic [ref=e558]:
+                  - generic [ref=e559]: "Trending Colors:"
+                  - generic [ref=e560]: Pamela Pink Rose
+                - generic [ref=e561]:
+                  - radio "Bella Blue Midnight" [ref=e562] [cursor=pointer]
+                  - generic [ref=e564] [cursor=pointer]: Bella Blue Midnight
+                  - radio "Barkha Brown Wood" [ref=e565] [cursor=pointer]
+                  - generic [ref=e567] [cursor=pointer]: Barkha Brown Wood
+                  - radio "Pamela Pink Rose" [checked] [ref=e568] [cursor=pointer]
+                  - generic [ref=e570] [cursor=pointer]: Pamela Pink Rose
+                  - radio "Gowri Grey Ridge" [ref=e571] [cursor=pointer]
+                  - generic [ref=e573] [cursor=pointer]: Gowri Grey Ridge
+                  - radio "Gargi Green Mist" [ref=e574] [cursor=pointer]
+                  - generic [ref=e576] [cursor=pointer]: Gargi Green Mist
+                  - radio "Baani Beige Etherea" [ref=e577] [cursor=pointer]
+                  - generic [ref=e579] [cursor=pointer]: Baani Beige Etherea
+              - generic [ref=e580]:
+                - generic [ref=e583]: "Color:"
+                - generic [ref=e584]:
+                  - radio "Bliss Black" [ref=e585] [cursor=pointer]
+                  - generic [ref=e587] [cursor=pointer]: Bliss Black
+                  - radio "Naina Navy" [ref=e588] [cursor=pointer]
+                  - generic [ref=e590] [cursor=pointer]: Naina Navy
+                  - radio "Barkha Brown" [ref=e591] [cursor=pointer]
+                  - generic [ref=e593] [cursor=pointer]: Barkha Brown
+                  - radio "Gowri Grey Smoke" [ref=e594] [cursor=pointer]
+                  - generic [ref=e596] [cursor=pointer]: Gowri Grey Smoke
+                  - radio "Gargi Green Seaweed" [ref=e597] [cursor=pointer]
+                  - generic [ref=e599] [cursor=pointer]: Gargi Green Seaweed
+                  - radio "Prachi Purple Rebel" [ref=e600] [cursor=pointer]
+                  - generic [ref=e602] [cursor=pointer]: Prachi Purple Rebel
+                  - radio "Pamela Pink Rouge" [ref=e603] [cursor=pointer]
+                  - generic [ref=e605] [cursor=pointer]: Pamela Pink Rouge
+                  - radio "Barkha Brown Ginger" [ref=e606] [cursor=pointer]
+                  - radio "Prachi Purple Merlot" [ref=e607] [cursor=pointer]
+                  - generic [ref=e609] [cursor=pointer]: Prachi Purple Merlot
+                  - radio "Barkha Brown Walnut" [ref=e610] [cursor=pointer]
+                  - radio "Monica Mauve" [ref=e611] [cursor=pointer]
+                  - radio "Bulbull Burgundy" [ref=e612] [cursor=pointer]
+                  - radio "Barkha Brown Caramel" [ref=e613] [cursor=pointer]
+                  - radio "Barkha Brown Mocha" [ref=e614] [cursor=pointer]
+                  - radio "Gowri Grey Granite" [ref=e615] [cursor=pointer]
+                  - radio "Baani Beige Biscotti" [ref=e616] [cursor=pointer]
+          - group [ref=e617]:
+            - generic [ref=e620]: "Size:"
+            - generic [ref=e624]:
+              - checkbox [checked]
+              - radio "XS-elene" [ref=e625] [cursor=pointer]
+              - generic [ref=e627] [cursor=pointer]: XS-elene
+              - radio "S-elene" [checked] [ref=e628] [cursor=pointer]
+              - generic [ref=e630] [cursor=pointer]: S-elene
+              - radio "M-aia" [ref=e631] [cursor=pointer]
+              - generic [ref=e633] [cursor=pointer]: M-aia
+              - radio "L-una" [ref=e634] [cursor=pointer]
+              - generic [ref=e636] [cursor=pointer]: L-una
+              - radio "XL-una" [ref=e637] [cursor=pointer]
+              - generic [ref=e639] [cursor=pointer]: XL-una
+              - radio "2XL-una" [ref=e640] [cursor=pointer]
+              - generic [ref=e642] [cursor=pointer]: 2XL-una
+              - radio "3XL-una" [ref=e643] [cursor=pointer]
+              - generic [ref=e645] [cursor=pointer]: 3XL-una
+              - radio "4XL-una" [ref=e646] [cursor=pointer]
+              - generic [ref=e648] [cursor=pointer]: 4XL-una
+        - generic [ref=e650]:
+          - paragraph [ref=e652]: Fit - True to size
+          - generic [ref=e653]:
+            - button "Size chart" [ref=e655] [cursor=pointer]:
+              - generic [ref=e656]:
+                - img [ref=e657]
+                - generic [ref=e659]: Size chart
+            - text: "|"
+            - paragraph [ref=e660]:
+              - generic [ref=e661]: Inseam Length - 28 inches
+          - generic [ref=e662]:
+            - button "Add to cart" [disabled] [ref=e664]:
+              - generic [ref=e665]: Add to cart
+            - generic [ref=e667]:
+              - link [ref=e668] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - img [ref=e669]
+              - paragraph
+        - generic [ref=e674]:
+          - generic [ref=e675]: Delivery Details
+          - generic [ref=e676]:
+            - textbox "Enter your pincode" [ref=e677]
+            - button "Check" [ref=e678] [cursor=pointer]
+        - generic:
+          - link:
+            - /url: "#compare_product_id"
+        - generic [ref=e684]:
+          - group / [ref=e685]:
+            - generic [ref=e686]:
+              - generic [ref=e689]: FIRSTBLISS
+              - generic [ref=e690]:
+                - paragraph [ref=e691]:
+                  - strong [ref=e692]: Extra 10% off on your 1st Order or 1st mens wear Order | Upto 500 OFF
+                - paragraph [ref=e693]:
+                  - text: "Use Code:"
+                  - strong [ref=e694]: FIRSTBLISS
+          - group / [ref=e695]:
+            - generic [ref=e696]:
+              - generic [ref=e699]: BLISS150
+              - generic [ref=e700]:
+                - paragraph [ref=e701]:
+                  - strong [ref=e702]: Buy any 2 products and get extra 150 off
+                - paragraph [ref=e703]:
+                  - text: "Use Code:"
+                  - strong [ref=e704]: BLISS150
+          - group / [ref=e705]:
+            - generic [ref=e706]:
+              - generic [ref=e709]: BLISS300
+              - paragraph [ref=e711]:
+                - strong [ref=e712]: Buy any 3 products and get extra 300 off
+                - text: "Use Code :"
+                - strong [ref=e713]: BLISS300
+          - group / [ref=e714]:
+            - generic [ref=e715]:
+              - generic [ref=e719]: Return and Refund
+              - paragraph [ref=e721]:
+                - text: 14 day free returns/exchange
+                - text: And 24 hour full refund
+    - generic [ref=e724]:
+      - generic [ref=e726]:
+        - paragraph [ref=e727]:
+          - strong [ref=e728]: "Why You'll Love This:"
+        - paragraph [ref=e729]: Where chic meets savvy.
+        - paragraph [ref=e730]: Spend less, move more, with the Ultimate Flare pants lite which are engineered for limitless comfort. Experience the luxe feel of a second skin, enjoy extra flare, a sleek waistband, and a discreet pocket. Style perks without the price tag!
+      - generic [ref=e732]:
+        - group [ref=e733]:
+          - generic "HIGHLIGHTS" [ref=e734] [cursor=pointer]:
+            - generic [ref=e736]: HIGHLIGHTS
+          - list [ref=e741]:
+            - listitem [ref=e742]: Stretchy, with 25% spandex
+            - listitem [ref=e743]: Back Seams Construct
+            - listitem [ref=e744]: No-chafing design
+            - listitem [ref=e745]: Hidden back pocket
+        - group [ref=e746]:
+          - generic "FABRIC DETAILS" [ref=e747] [cursor=pointer]:
+            - generic [ref=e749]: FABRIC DETAILS
+        - group [ref=e752]:
+          - generic "WASH-CARE DETAILS" [ref=e753] [cursor=pointer]:
+            - generic [ref=e755]: WASH-CARE DETAILS
+        - group [ref=e758]:
+          - generic "SHIPPING & RETURN DETAILS" [ref=e759] [cursor=pointer]:
+            - generic [ref=e761]: SHIPPING & RETURN DETAILS
+    - button [ref=e767] [cursor=pointer]:
+      - img [ref=e769]
+    - generic [ref=e775]:
+      - generic [ref=e776]:
+        - generic [ref=e777]: "01"
+        - paragraph [ref=e779]:
+          - text: Your new go-to stylish fits to look effortlessly versatile.
+          - generic [ref=e781]: Your new go-to
+          - generic [ref=e783]: stylish fits to look
+          - generic [ref=e785]: effortlessly
+          - generic [ref=e787]: versatile.
+      - generic [ref=e788]:
+        - generic [ref=e789]: "02"
+        - paragraph [ref=e791]:
+          - text: Crafted in our iconic CloudSoft ™ fabric, features softness & stretch that moves with you.
+          - generic [ref=e793]: Crafted in our
+          - generic [ref=e795]: iconic CloudSoft
+          - generic [ref=e797]: ™ fabric, features
+          - generic [ref=e799]: softness & stretch
+          - generic [ref=e801]: that moves with
+          - generic [ref=e803]: you.
+      - generic [ref=e804]:
+        - generic [ref=e805]: "03"
+        - paragraph [ref=e807]:
+          - text: A flare that’s truly unmatched. Sculpts & looks sleek.
+          - generic [ref=e809]: A flare that’s truly
+          - generic [ref=e811]: unmatched.
+          - generic [ref=e813]: Sculpts & looks
+          - generic [ref=e815]: sleek.
+      - generic [ref=e816]:
+        - generic [ref=e817]: "04"
+        - paragraph [ref=e819]:
+          - text: Crafted in our iconic CloudSoft ™ fabric, features softness & stretch that moves with you.
+          - generic [ref=e821]: Crafted in our
+          - generic [ref=e823]: iconic CloudSoft
+          - generic [ref=e825]: ™ fabric, features
+          - generic [ref=e827]: softness & stretch
+          - generic [ref=e829]: that moves with
+          - generic [ref=e831]: you.
+    - generic [ref=e838]:
+      - generic [ref=e839]:
+        - heading "What our customers have to say" [level=2] [ref=e840]
+        - generic [ref=e842]:
+          - img "Average rating is 4.64 stars" [ref=e843]:
+            - generic [ref=e844]: 
+            - generic [ref=e845]: 
+            - generic [ref=e846]: 
+            - generic [ref=e847]: 
+            - generic [ref=e848]: 
+          - generic [ref=e849]: 4.6 (based on 198 reviews)
+        - text:     
+        - combobox "Sort dropdown" [ref=e857]:
+          - option "Most Recent"
+          - option "Highest Rating"
+          - option "Lowest Rating"
+          - option "Only Pictures"
+          - option "Pictures First" [selected]
+          - option "Videos First"
+          - option "Most Helpful"
+      - generic [ref=e859]:
+        - generic [ref=e861]:
+          - generic [ref=e862]:
+            - generic [ref=e863]: u
+            - img "4 star review" [ref=e864]:
+              - generic [ref=e865]: 
+              - generic [ref=e866]: 
+              - generic [ref=e867]: 
+              - generic [ref=e868]: 
+              - generic [ref=e869]: 
+            - text: 12/02/26
+            - generic [ref=e871]: umaangeuu1992
+          - generic [ref=e872]:
+            - generic [ref=e873]: parcel was opened
+            - paragraph [ref=e875]:
+              - text: product is good.
+              - text: ...
+              - button "Read more" [ref=e876] [cursor=pointer]
+            - link "Link to user picture 1" [ref=e878] [cursor=pointer]:
+              - /url: https://judgeme.imgix.net/blissclub/1770911543__txvgvmkd9qm__original.heic?auto=format&w=1024
+        - button "Load More" [ref=e880] [cursor=pointer]
+    - generic [ref=e883]:
+      - heading "Pair It With Pair It With" [level=2] [ref=e886]:
+        - text: Pair It With
+        - generic [ref=e888]: Pair It With
+      - generic [ref=e893]:
+        - generic [ref=e894]:
+          - generic [ref=e895]:
+            - link "Ultimate Leggings - Lite" [ref=e896] [cursor=pointer]:
+              - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308584874240&pr_ref_pid=9238111158528&pr_seq=uniform
+              - img "Ultimate Leggings - Lite" [ref=e897]
+            - generic [ref=e901] [cursor=pointer]:
+              - link [ref=e902]:
+                - /url: javascript:void(0)
+                - img [ref=e903]
+              - paragraph
+            - button [ref=e909] [cursor=pointer]:
+              - img [ref=e911]
+          - generic [ref=e912]:
+            - generic [ref=e913]:
+              - generic [ref=e914]:
+                - link "Ultimate Leggings - Lite" [ref=e916] [cursor=pointer]:
+                  - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308584874240&pr_ref_pid=9238111158528&pr_seq=uniform
+                - link "4.9 4.9 out of 5.0 stars" [ref=e917] [cursor=pointer]:
+                  - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308584874240&pr_ref_pid=9238111158528&pr_seq=uniform#judgeme_product_reviews
+                  - generic [ref=e918]: "4.9"
+                  - img "4.9 out of 5.0 stars" [ref=e919]:
+                    - img [ref=e920]
+              - generic [ref=e922]:
+                - generic [ref=e923]:
+                  - generic [ref=e924]: Regular price
+                  - text: Rs. 1,999
+                - generic [ref=e925]:
+                  - generic [ref=e926]: Sale price
+                  - text: Rs. 899
+            - link "Best Price Rs. 809 with coupon" [ref=e928] [cursor=pointer]:
+              - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308584874240&pr_ref_pid=9238111158528&pr_seq=uniform
+              - generic [ref=e929]:
+                - generic [ref=e930]: Best Price Rs. 809
+                - text: with coupon
+            - group [ref=e932]:
+              - radio "Prachi Purple Rebel" [checked] [ref=e933] [cursor=pointer]
+              - generic [ref=e935] [cursor=pointer]: Prachi Purple Rebel
+              - radio "Naina Navy" [ref=e936] [cursor=pointer]
+              - generic [ref=e938] [cursor=pointer]: Naina Navy
+              - radio "Pamela Pink Wist" [ref=e939] [cursor=pointer]
+              - generic [ref=e941] [cursor=pointer]: Pamela Pink Wist
+              - radio "Bella Blue Midnight" [ref=e942] [cursor=pointer]
+              - generic [ref=e944] [cursor=pointer]: Bella Blue Midnight
+              - link "+5" [ref=e945] [cursor=pointer]:
+                - /url: /products/ankle-length-polyester-gym-leggings-with-hidden-back-pocket?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308584874240&pr_ref_pid=9238111158528&pr_seq=uniform
+        - generic [ref=e946]:
+          - generic [ref=e947]:
+            - link "Ultimate All Day Joggers" [ref=e948] [cursor=pointer]:
+              - /url: /products/mid-waist-tapered-pants-with-adjustable-drawstring-and-2-side-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308619084032&pr_ref_pid=9238111158528&pr_seq=uniform
+              - img "Ultimate All Day Joggers" [ref=e949]
+            - generic [ref=e953] [cursor=pointer]:
+              - link [ref=e954]:
+                - /url: javascript:void(0)
+                - img [ref=e955]
+              - paragraph
+            - button [ref=e961] [cursor=pointer]:
+              - img [ref=e963]
+          - generic [ref=e964]:
+            - generic [ref=e965]:
+              - generic [ref=e966]:
+                - link "Ultimate All Day Joggers" [ref=e968] [cursor=pointer]:
+                  - /url: /products/mid-waist-tapered-pants-with-adjustable-drawstring-and-2-side-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308619084032&pr_ref_pid=9238111158528&pr_seq=uniform
+                - link "4.9 4.9 out of 5.0 stars" [ref=e969] [cursor=pointer]:
+                  - /url: /products/mid-waist-tapered-pants-with-adjustable-drawstring-and-2-side-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308619084032&pr_ref_pid=9238111158528&pr_seq=uniform#judgeme_product_reviews
+                  - generic [ref=e970]: "4.9"
+                  - img "4.9 out of 5.0 stars" [ref=e971]:
+                    - img [ref=e972]
+              - generic [ref=e974]:
+                - generic [ref=e975]:
+                  - generic [ref=e976]: Regular price
+                  - text: Rs. 1,999
+                - generic [ref=e977]:
+                  - generic [ref=e978]: Sale price
+                  - text: Rs. 1,299
+            - link "Best Price Rs. 1,169 with coupon" [ref=e980] [cursor=pointer]:
+              - /url: /products/mid-waist-tapered-pants-with-adjustable-drawstring-and-2-side-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308619084032&pr_ref_pid=9238111158528&pr_seq=uniform
+              - generic [ref=e981]:
+                - generic [ref=e982]: Best Price Rs. 1,169
+                - text: with coupon
+            - group [ref=e984]:
+              - radio "Bliss Black" [checked] [ref=e985] [cursor=pointer]
+              - generic [ref=e987] [cursor=pointer]: Bliss Black
+              - radio "Naina Navy" [ref=e988] [cursor=pointer]
+              - generic [ref=e990] [cursor=pointer]: Naina Navy
+              - radio "Pamela Pink Sugar" [ref=e991] [cursor=pointer]
+              - generic [ref=e993] [cursor=pointer]: Pamela Pink Sugar
+        - generic [ref=e994]:
+          - generic [ref=e995]:
+            - link "Ultimate Korean Pants" [ref=e996] [cursor=pointer]:
+              - /url: /products/high-waisted-wide-legged-pants-with-adjustable-drawstring-and-2-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308625277184&pr_ref_pid=9238111158528&pr_seq=uniform
+              - img "Ultimate Korean Pants" [ref=e997]
+            - generic [ref=e1001] [cursor=pointer]:
+              - link [ref=e1002]:
+                - /url: javascript:void(0)
+                - img [ref=e1003]
+              - paragraph
+            - button [ref=e1009] [cursor=pointer]:
+              - img [ref=e1011]
+          - generic [ref=e1012]:
+            - generic [ref=e1013]:
+              - generic [ref=e1014]:
+                - link "Ultimate Korean Pants" [ref=e1016] [cursor=pointer]:
+                  - /url: /products/high-waisted-wide-legged-pants-with-adjustable-drawstring-and-2-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308625277184&pr_ref_pid=9238111158528&pr_seq=uniform
+                - link "4.9 4.9 out of 5.0 stars" [ref=e1017] [cursor=pointer]:
+                  - /url: /products/high-waisted-wide-legged-pants-with-adjustable-drawstring-and-2-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308625277184&pr_ref_pid=9238111158528&pr_seq=uniform#judgeme_product_reviews
+                  - generic [ref=e1018]: "4.9"
+                  - img "4.9 out of 5.0 stars" [ref=e1019]:
+                    - img [ref=e1020]
+              - generic [ref=e1022]:
+                - generic [ref=e1023]:
+                  - generic [ref=e1024]: Regular price
+                  - text: Rs. 2,399
+                - generic [ref=e1025]:
+                  - generic [ref=e1026]: Sale price
+                  - text: Rs. 1,599
+            - link "Best Price Rs. 1,439 with coupon" [ref=e1028] [cursor=pointer]:
+              - /url: /products/high-waisted-wide-legged-pants-with-adjustable-drawstring-and-2-pockets?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8308625277184&pr_ref_pid=9238111158528&pr_seq=uniform
+              - generic [ref=e1029]:
+                - generic [ref=e1030]: Best Price Rs. 1,439
+                - text: with coupon
+            - group [ref=e1032]:
+              - radio "Gowri Grey Smoke" [checked] [ref=e1033] [cursor=pointer]
+              - generic [ref=e1035] [cursor=pointer]: Gowri Grey Smoke
+              - radio "Naina Navy" [ref=e1036] [cursor=pointer]
+              - generic [ref=e1038] [cursor=pointer]: Naina Navy
+              - radio "Barkha Brown" [ref=e1039] [cursor=pointer]
+              - generic [ref=e1041] [cursor=pointer]: Barkha Brown
+              - radio "Bliss Black" [ref=e1042] [cursor=pointer]
+              - generic [ref=e1044] [cursor=pointer]: Bliss Black
+        - generic [ref=e1045]:
+          - generic [ref=e1046]:
+            - link "Ultimate Flare Pants" [ref=e1047] [cursor=pointer]:
+              - /url: /products/the-ultimate-flare-pants?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8295416398080&pr_ref_pid=9238111158528&pr_seq=uniform
+              - img "Ultimate Flare Pants" [ref=e1048]
+            - generic [ref=e1052] [cursor=pointer]:
+              - link [ref=e1053]:
+                - /url: javascript:void(0)
+                - img [ref=e1054]
+              - paragraph
+            - button [ref=e1060] [cursor=pointer]:
+              - img [ref=e1062]
+          - generic [ref=e1063]:
+            - generic [ref=e1064]:
+              - generic [ref=e1065]:
+                - link "Ultimate Flare Pants" [ref=e1067] [cursor=pointer]:
+                  - /url: /products/the-ultimate-flare-pants?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8295416398080&pr_ref_pid=9238111158528&pr_seq=uniform
+                - link "4.9 4.9 out of 5.0 stars" [ref=e1068] [cursor=pointer]:
+                  - /url: /products/the-ultimate-flare-pants?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8295416398080&pr_ref_pid=9238111158528&pr_seq=uniform#judgeme_product_reviews
+                  - generic [ref=e1069]: "4.9"
+                  - img "4.9 out of 5.0 stars" [ref=e1070]:
+                    - img [ref=e1071]
+              - generic [ref=e1073]:
+                - generic [ref=e1074]:
+                  - generic [ref=e1075]: Regular price
+                  - text: Rs. 2,299
+                - generic [ref=e1076]:
+                  - generic [ref=e1077]: Sale price
+                  - text: Rs. 1,499
+            - link "Best Price Rs. 1,349 with coupon" [ref=e1079] [cursor=pointer]:
+              - /url: /products/the-ultimate-flare-pants?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8295416398080&pr_ref_pid=9238111158528&pr_seq=uniform
+              - generic [ref=e1080]:
+                - generic [ref=e1081]: Best Price Rs. 1,349
+                - text: with coupon
+            - group [ref=e1083]:
+              - radio "Gowri Grey Ridge" [checked] [ref=e1084] [cursor=pointer]
+              - generic [ref=e1086] [cursor=pointer]: Gowri Grey Ridge
+              - radio "Bliss Black" [ref=e1087] [cursor=pointer]
+              - generic [ref=e1089] [cursor=pointer]: Bliss Black
+              - radio "Naina Navy" [ref=e1090] [cursor=pointer]
+              - generic [ref=e1092] [cursor=pointer]: Naina Navy
+              - radio "Baani Beige Etherea" [ref=e1093] [cursor=pointer]
+              - generic [ref=e1095] [cursor=pointer]: Baani Beige Etherea
+              - link "+2" [ref=e1096] [cursor=pointer]:
+                - /url: /products/the-ultimate-flare-pants?pr_prod_strat=pinned&pr_rec_id=55d6735ba&pr_rec_pid=8295416398080&pr_ref_pid=9238111158528&pr_seq=uniform
+    - region [ref=e1101]:
+      - group [ref=e1102]
+    - generic:
+      - generic:
+        - region
+    - generic:
+      - generic:
+        - region
+    - generic [ref=e1105]:
+      - generic [ref=e1107]:
+        - link [ref=e1108] [cursor=pointer]:
+          - /url: https://blissclub.com
+        - paragraph [ref=e1110]: "Let’s #KeepMoving"
+      - generic [ref=e1114]:
+        - generic [ref=e1115]:
+          - paragraph [ref=e1116]: About Us
+          - list [ref=e1118]:
+            - listitem [ref=e1119]:
+              - link "Our Story" [ref=e1120] [cursor=pointer]:
+                - /url: /pages/our-story
+            - listitem [ref=e1121]:
+              - link "Stores Near Me" [ref=e1122] [cursor=pointer]:
+                - /url: https://blissclub.com/pages/store-locator
+            - listitem [ref=e1123]:
+              - link "Terms of Service" [ref=e1124] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=e1125]:
+              - link "Privacy Policy" [ref=e1126] [cursor=pointer]:
+                - /url: /policies/privacy-policy
+        - generic [ref=e1127]:
+          - paragraph [ref=e1128]: Help
+          - list [ref=e1130]:
+            - listitem [ref=e1131]:
+              - link "Order Tracking" [ref=e1132] [cursor=pointer]:
+                - /url: https://blissclub.wiq.app/
+            - listitem [ref=e1133]:
+              - link "Return/Exchange" [ref=e1134] [cursor=pointer]:
+                - /url: https://blissclub.ecoreturns.ai/apps/ecoreturnsai/
+            - listitem [ref=e1135]:
+              - link "Returns / Refunds / Exchanges Policy" [ref=e1136] [cursor=pointer]:
+                - /url: /pages/returns-cancellation
+            - listitem [ref=e1137]:
+              - link "Shipping Policy" [ref=e1138] [cursor=pointer]:
+                - /url: /pages/shipping-policy
+            - listitem [ref=e1139]:
+              - link "Sitemap" [ref=e1140] [cursor=pointer]:
+                - /url: https://blissclub.com/pages/sitemap
+            - listitem [ref=e1141]:
+              - link "FAQ" [ref=e1142] [cursor=pointer]:
+                - /url: https://blissclub.com/pages/faq-new
+            - listitem [ref=e1143]:
+              - link "Contact Us" [ref=e1144] [cursor=pointer]:
+                - /url: /pages/reach-us-mobileapp
+        - generic [ref=e1145]:
+          - paragraph [ref=e1146]: Address
+          - generic [ref=e1147]:
+            - paragraph [ref=e1149]:
+              - text: Blissclub Fitness Private Limited
+              - text: No. 145, UrbanVault,
+              - text: 5th Main Rd, Sector 6,
+              - text: HSR Layout,
+              - text: Bengaluru, Karnataka 560102
+              - text: CIN - U52520KA2020PTC133220
+              - text: "In case of queries email us at :"
+              - link "hi@myblissclub.in" [ref=e1150] [cursor=pointer]:
+                - /url: mailto:grievanceofficer@myblissclub.in
+            - list [ref=e1151]:
+              - listitem [ref=e1152]:
+                - link "Follow on Facebook" [ref=e1153] [cursor=pointer]:
+                  - /url: https://www.facebook.com/myblissclub
+              - listitem [ref=e1155]:
+                - link "Follow on Twitter" [ref=e1156] [cursor=pointer]:
+                  - /url: https://twitter.com/myblissclub
+              - listitem [ref=e1158]:
+                - link "Follow on Instagram" [ref=e1159] [cursor=pointer]:
+                  - /url: https://www.instagram.com/myblissclub
+              - listitem [ref=e1161]:
+                - link "Follow on YouTube" [ref=e1162] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UC-xTA_bW6pyEqK3byfbwWww
+              - listitem [ref=e1164]:
+                - link "Follow on WhatsApp" [ref=e1165] [cursor=pointer]:
+                  - /url: https://api.whatsapp.com/send?phone=919900001845&text=Hey%20BlissClub
+      - list [ref=e1169]:
+        - listitem [ref=e1170]:
+          - link "Our Story" [ref=e1171] [cursor=pointer]:
+            - /url: /pages/our-story
+        - listitem [ref=e1172]:
+          - link "Contact Us" [ref=e1173] [cursor=pointer]:
+            - /url: /pages/reach-us-mobileapp
+        - listitem [ref=e1174]:
+          - link "Refer and Earn" [ref=e1175] [cursor=pointer]:
+            - /url: https://blissclub.com/pages/referral-page
+        - listitem [ref=e1176]:
+          - link "BlissQueen Royalty Program" [ref=e1177] [cursor=pointer]:
+            - /url: /pages/rewards-old
+        - listitem [ref=e1178]:
+          - link "Terms of Service" [ref=e1179] [cursor=pointer]:
+            - /url: /policies/terms-of-service
+        - listitem [ref=e1180]:
+          - link "Refund policy" [ref=e1181] [cursor=pointer]:
+            - /url: /policies/refund-policy
+  - generic:          
