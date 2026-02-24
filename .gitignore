@@ -4,3 +4,4 @@ dist/
 *.log
 evidence/
 .DS_Store
+firebase-service-account.json
